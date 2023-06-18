@@ -1,5 +1,8 @@
 # Shockwave_image_enhancer
-MATLAB Image processing and enhancement for the shock wave Captured in Supersonic Flow Visualization in Wind Tunnels
+
+- PICTURE PIXEL TREATMENT -
+
+MATLAB Image processing and enhancement for the shock wave captured in Supersonic Flow Visualization in Wind Tunnel Testing.
 
 Repository Description:
 
@@ -19,4 +22,4 @@ Documentation and Examples: The repository provides detailed documentation and u
 
 Sample Data and Test Cases: To facilitate experimentation and testing, the repository includes a collection of sample images captured in a supersonic wind tunnel. These images can be used to evaluate the performance of the image enhancement techniques and validate the effectiveness of the code.
 
-We invite researchers, engineers, and enthusiasts in the field of flow visualization and supersonic aerodynamics to explore and contribute to this repository. By leveraging the power of MATLAB and the provided image enhancement techniques, we aim to advance the understanding and analysis of supersonic flow phenomena through improved visualizations.
+I invite researchers, engineers, and enthusiasts in the field of flow visualization and supersonic and Hypersonic aerodynamics to explore and contribute to this repository. By leveraging the power of MATLAB and the provided image enhancement techniques, I aim to advance the understanding and analysis of supersonic flow phenomena through improved visualizations.
