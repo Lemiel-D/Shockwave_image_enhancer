@@ -1,4 +1,4 @@
-Code for image processing and enhancement using MATLAB
+%Code for image processing and enhancement using MATLAB
 clc;
 %reading the image file 
 X = imread ('C:\Users\hp\Downloads\Oblique Shock.jpg'); 
