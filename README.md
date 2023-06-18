@@ -1,8 +1,8 @@
-# Shockwave_image_enhancer
+# Shockwave Image Enhancer
 
-- PICTURE PIXEL TREATMENT -
+ _PICTURE PIXEL TREATMENT_ 
 
-MATLAB Image processing and enhancement for the shock wave captured in Supersonic Flow Visualization in Wind Tunnel Testing.
+MATLAB Image processing and enhancement for the shock wave pattern captured in Supersonic Flow Visualization in Wind Tunnel Testing.
 
 Repository Description:
 
